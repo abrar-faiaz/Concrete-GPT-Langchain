@@ -1,2 +1,13 @@
-# Concrete-GPT-Langchain
- This app can answer anything about concrete , related to aci code
+---
+title: Concrete GPT
+emoji: 🌍
+colorFrom: red
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
